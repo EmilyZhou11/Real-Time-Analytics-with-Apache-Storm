@@ -1,0 +1,5 @@
+#surefire
+#Sun Oct 11 17:33:51 PDT 2015
+user.dir=/vagrant/lesson2/stage6
+localRepository=/home/vagrant/.m2/repository
+basedir=/vagrant/lesson2/stage6
